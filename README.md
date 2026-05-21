@@ -1,4 +1,37 @@
-# ¡Hola! Soy Manuel (Manolo) Martínez 👋
+# Hi 👋, I'm Manuel Martinez
+
+### Enterprise Architect
+
+- 🔭 I'm currently working on **Liderando consultorías de Arquitectura Empresarial y transformación digital, diseñando roadmaps de modernización y marcos de gobernanza cloud para organizaciones en Latinoamérica.**
+
+- 🌱 I'm currently learning **Profundizando en el diseño de sistemas avanzados de trading algorítmico (MQL5/Expert Advisors) y optimización de infraestructura de alta disponibilidad para nodos blockchain.**
+
+- 👯 I'm looking to collaborate on **Iniciativas complejas de migración multi-cloud (AWS, GCP, Azure), diseño de sistemas distribuidos a gran escala [cite: 17, 19] y estrategias de modernización de plataformas legadas.**
+
+- 🤝 I'm looking for help with **I’m looking for help with:** Expandir mi red de contactos con organizaciones y líderes tecnológicos orientados a la innovación y la transformación digital en la región[cite: 21, 22].**
+
+- 💬 Ask me about **Estrategias multi-cloud, gobierno de TI, arquitectura de datos empresariales, escalabilidad de plataformas distribuidas, o cómo estructurar decisiones arquitectónicas alineadas al negocio.**
+
+- 📫 How to reach me **LinkedIn https://www.linkedin.com/in/manuelmartine**
+
+- ⚡ Fun fact **Además de diseñar ecosistemas tecnológicos complejos para gigantes como Google, AWS y Microsoft[cite: 17, 37, 50, 54], soy pianista de jazz.**
+
+- 👨‍💻 All of my projects are available at **[https://github.com/Sigrid%20Solver) *(Tu repositorio principal de proyectos)* ](https://github.com/Sigrid%20Solver) *(Tu repositorio principal de proyectos)* )**
+
+- 📝 I regularly write articles on **[https://www.linkedin.com/in/manuelmartine) *(Donde comparto insights sobre Estrategia Cloud y Arquitectura)* |](https://www.linkedin.com/in/manuelmartine) *(Donde comparto insights sobre Estrategia Cloud y Arquitectura)* |)**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/SigridSolve" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="SigridSolve" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/manuelmartinez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manuelmartinez" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/azure" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=azure" alt="azure" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/csharp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kubernetes" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/oracle" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
+
+
+
+# ¡Hola! Soy Manuel 👋
 
 ### **Enterprise Architect | Cloud Strategy | Multi-Cloud Specialist (AWS · GCP · Azure)**
 
