@@ -8,18 +8,6 @@
 
 - 👯 I'm looking to collaborate on **Iniciativas complejas de migración multi-cloud (AWS, GCP, Azure), diseño de sistemas distribuidos a gran escala [cite: 17, 19] y estrategias de modernización de plataformas legadas.**
 
-- 🤝 I'm looking for help with **I’m looking for help with:** Expandir mi red de contactos con organizaciones y líderes tecnológicos orientados a la innovación y la transformación digital en la región[cite: 21, 22].**
-
-- 💬 Ask me about **Estrategias multi-cloud, gobierno de TI, arquitectura de datos empresariales, escalabilidad de plataformas distribuidas, o cómo estructurar decisiones arquitectónicas alineadas al negocio.**
-
-- 📫 How to reach me **LinkedIn https://www.linkedin.com/in/manuelmartine**
-
-- ⚡ Fun fact **Además de diseñar ecosistemas tecnológicos complejos para gigantes como Google, AWS y Microsoft[cite: 17, 37, 50, 54], soy pianista de jazz.**
-
-- 👨‍💻 All of my projects are available at **[https://github.com/Sigrid%20Solver) *(Tu repositorio principal de proyectos)* ](https://github.com/Sigrid%20Solver) *(Tu repositorio principal de proyectos)* )**
-
-- 📝 I regularly write articles on **[https://www.linkedin.com/in/manuelmartine) *(Donde comparto insights sobre Estrategia Cloud y Arquitectura)* |](https://www.linkedin.com/in/manuelmartine) *(Donde comparto insights sobre Estrategia Cloud y Arquitectura)* |)**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/SigridSolver" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="SigridSolve" height="30" width="40" /></a>
